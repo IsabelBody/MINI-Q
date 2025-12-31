@@ -6,6 +6,9 @@ This project aims to address the critical communication gap between healthcare p
 ### Deployed at https://miniq.nz/
 
 ### View the demonstration video [here](https://youtu.be/lzzGcyjVAGo).
+
+### Project Portfolio
+View our project portfolio [here](https://www.capitalise.space/projects/6735c9b39df43e2d89d98c6e).
 <br>
 
 ## Project Management Tools
@@ -181,11 +184,10 @@ The team behind it all ([emoji key](https://allcontributors.org/docs/en/emoji-ke
 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/jaspeng6"><img src="https://github.com/user-attachments/assets/2b3c550c-c25a-4c81-bb66-75453a1f9035" width="140px" height="140px;"/></a><br /><a href="https://www.linkedin.com/in/jason-peng-b6575021b/"><b><sub>Jason Peng</sub></b></a></br><sub>Frontend 💻🎨</sub><br /><sub>jaspeng6@gmail.com</br></sub></td>
-    <td align="center"><a href="https://github.com/nancywu45"><img src="https://github.com/user-attachments/assets/ee6b0ec0-dc6d-4548-8831-3050349ff623" width="140px" height="140px;"/></a><br /><a href="https://www.linkedin.com/in/nancywu45/"><b><sub>Nancy Wu</sub></b></a></br> <sub>Frontend 💻🎨</sub><br /><sub>nancywu45@gmail.com</sub></td>
-    <td align="center"><a href="https://github.com/micattoc"><img src="https://github.com/user-attachments/assets/5a0b06e5-58b0-4a95-84c4-f8439b3a07db" width="140px" height="140px;"/></a><br /><a href="https://www.linkedin.com/in/sophia-halapchuk/"><b><sub>Sophia Halapchuk</sub></b></a></br> <sub>Full-stack 💻📖</sub><br /><sub>micattoc@gmail.com</sub></td>
-    <td align="center"><a href="https://github.com/laibatool792"><img src="https://github.com/user-attachments/assets/994f00df-d2bd-4524-992c-807191fcfc36" width="140px" height="140px;"/></a><br /><a href="https://www.linkedin.com/in/laiba-batoolcs/"><b><sub>Laiba Batool</sub></b></a></br> <sub>Backend 💻🛡️</sub><br /><sub>laibatool792@gmail.com</sub></td>
     <td align="center"><a href="https://github.com/IsabelBody"><img src="https://github.com/user-attachments/assets/3ce34701-f058-4641-bc03-98d739ae0e91" width="140px" height="140px"/></a><br /><a href="https://www.linkedin.com/in/isabelbody/"><b><sub>Isabel Body</sub></b></a></br> <sub>Backend 💻🛡️</sub><br /><sub>isabelbody@gmail.com</sub></td>
+    <td align="center"><a href="https://github.com/laibatool792"><img src="https://github.com/user-attachments/assets/994f00df-d2bd-4524-992c-807191fcfc36" width="140px" height="140px;"/></a><br /><a href="https://www.linkedin.com/in/laiba-batoolcs/"><b><sub>Laiba Batool</sub></b></a></br> <sub>Backend 💻🛡️</sub><br /><sub>laibatool792@gmail.com</sub></td>
+    <td align="center"><a href="https://github.com/micattoc"><img src="https://github.com/user-attachments/assets/5a0b06e5-58b0-4a95-84c4-f8439b3a07db" width="140px" height="140px;"/></a><br /><a href="https://www.linkedin.com/in/sophia-halapchuk/"><b><sub>Sophia Halapchuk</sub></b></a></br> <sub>Full-stack 💻📖</sub><br /><sub>micattoc@gmail.com</sub></td>
+    <td align="center"><a href="https://github.com/nancywu45"><img src="https://github.com/user-attachments/assets/ee6b0ec0-dc6d-4548-8831-3050349ff623" width="140px" height="140px;"/></a><br /><a href="https://www.linkedin.com/in/nancywu45/"><b><sub>Nancy Wu</sub></b></a></br> <sub>Frontend 💻🎨</sub><br /><sub>nancywu45@gmail.com</sub></td>
   </tr>
 </table>
 
