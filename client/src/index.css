@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body,
+#root,
+.app {
+  height: 100%;
+  width: 100%;
+  font-family: 'Poppins';
+}
+
+@layer base {
+  :root {
+    --white: 0 0% 100%;
+    --black: 0 0% 0%;
+    --primary-110: 203 92% 20%;
+    --primary-100: 204 100% 27%;
+    --primary-75: 203 45% 46%;
+    --primary-50: 203 37% 64%;
+    --primary-25: 204 38% 82%;
+    --primary-5: 197 37% 96%;
+    --secondary-110: 216 86% 11%;
+    --secondary-100: 216 60% 18%;
+    --secondary-75: 217 21% 39%;
+    --secondary-50: 216 13% 59%;
+    --secondary-25: 219 13% 80%;
+    --secondary-5: 220 14% 96%;
+    --accent-110: 186 85% 30%;
+    --accent-105: 185 56% 43%;
+    --accent-100: 185 65% 50%;
+    --accent-75: 182 65% 63%;
+    --accent-50: 183 65% 75%;
+    --accent-25: 183 66% 87%;
+    --accent-5: 184 65% 95%;
+    --sky: 180 100% 97%;
+    --cream: 73 100% 98%;
+    --bg-green: 97 36% 69%;
+    --bg-yellow: 50 76% 84%;
+    --bg-red: 349 63% 85%;
+    --bg-purple: 265 62% 90%;
+    --radius: 0.5rem;
+
+    --destructive: 5 78% 57%;
+    --success: 130 70% 37%;
+    --chart-1: 97 36% 69%;
+    --chart-2: 50 76% 84%;
+    --chart-3: 349 63% 85%;
+    --chart-4: 265 62% 90%;
+    --chart-5: 183 66% 87%;
+  }
+
+  /* for dark mode (potentially future extension?) */
+  .dark {
+    --background: 222.2 84% 4.9%;
+    --foreground: 210 40% 98%;
+    --card: 222.2 84% 4.9%;
+    --card-foreground: 210 40% 98%;
+    --popover: 222.2 84% 4.9%;
+    --popover-foreground: 210 40% 98%;
+    --primary: 210 40% 98%;
+    --primary-foreground: 222.2 47.4% 11.2%;
+    --secondary: 217.2 32.6% 17.5%;
+    --secondary-foreground: 210 40% 98%;
+    --muted: 217.2 32.6% 17.5%;
+    --muted-foreground: 215 20.2% 65.1%;
+    --accent: 217.2 32.6% 17.5%;
+    --accent-foreground: 210 40% 98%;
+    --destructive: 0 62.8% 30.6%;
+    --destructive-foreground: 210 40% 98%;
+    --border: 217.2 32.6% 17.5%;
+    --input: 217.2 32.6% 17.5%;
+    --ring: 212.7 26.8% 83.9%;
+    --chart-1: 220 70% 50%;
+    --chart-2: 160 60% 45%;
+    --chart-3: 30 80% 55%;
+    --chart-4: 280 65% 60%;
+    --chart-5: 340 75% 55%;
+  }
+}
+
+.rdp-vhidden {
+  @apply hidden;
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground;
+  }
+}
+
+.ql-editor {
+  font-family: 'Poppins', sans-serif;
+  border: none !important;
+  outline: none !important;
+}
+
+.ql-container {
+  border: none !important;
+  outline: none !important;
+}

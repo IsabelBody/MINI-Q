@@ -1,0 +1,24 @@
+#root {
+  margin: 0 auto;
+}
+
+/* devices that can hover (e.g. desktop) */
+@media not all and (hover: none) {
+  button[data-variant="outline"]:hover{
+    @apply bg-accent-5
+  }
+}
+
+/* devices that cannot hover (e.g. mobile, tablets) */
+@media all and (hover: none) {
+  div[data-class="pdfViewer"] {
+    display: none
+  }
+}
+
+/* remove arrows on number input */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}

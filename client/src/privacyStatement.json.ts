@@ -1,0 +1,4 @@
+export default 
+{
+    "privacyStatement": "To help us understand what your preferences for medicines information are, we need to collect some information from you. This includes:\n\n <b>1. First Name and Last Name (Mandatory):</b> These are used to match you to your National Health Index (NHI) number.\n\n<b>2. Date of Birth (Mandatory):</b> Your date of birth is used to match you to your NHI number, and assist with demographic reporting.\n\n<b>3. NHI Number (Optional):</b> If you provide your NHI number, it is used to assist with matching you to your existing NHI number, ensuring accurate identification in the health system.\n\nThis information is collected and held by Health New Zealand in accordance with the Privacy Act and the Health Information Privacy Code. You can view or request a correction of your information by contacting Health New Zealand’s Privacy Officer."
+};
